@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋 , I am Vanshil <br>A passionate 2nd year CSE student exploring fields of web devlopment<br><br>🔭 I'm currently working on Food delivery web app<br>🌱 I'm currently learning React.Js<br>
+Hey 👋 , I am Vanshil <br>A passionate 2nd year CSE student exploring fields of web devlopment<br><br>🔭 I'm currently working on Online algorithmic problem solving platform <br>🌱 I'm currently learning React.Js<br>
 
 
 ## 🌐 Socials:
