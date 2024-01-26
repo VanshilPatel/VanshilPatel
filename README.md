@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Vanshil <br>Full Stack developer and currently a 3rd year CSE student<br> 🔭 I’m currently working on making SQL Practise platform<br><br> 🌱 I’m currently learning TypeScript and NextJs<br><br> 💬 Ask me about:  ReactJS, NextJs, NodeJS, TaiwlindCSS<br><br> 📫 How to reach me: vanshilpatel12@gmail.com
+Hey, I am Vanshil <br>Full Stack developer and currently a 3rd year CSE student<br> 🔭 I’m currently working on making Notion clone using NextJs and Typescript<br><br> 🌱 I’m currently learning TypeScript <br><br> 💬 Ask me about:  ReactJS, NextJs, NodeJS, TaiwlindCSS<br><br> 📫 How to reach me: vanshilpatel12@gmail.com
 
 
 # 💻 Tech Stack:
