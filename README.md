@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Vanshil <br>Full Stack and CLoud Engineer and currently a final year CSE student<br> 🔭 🔭 I'm currently working at Searce as an Associate Cloud Engineer, where I work extensively with Python and Google Cloud Platform (GCP).<br><br> 🌱 I'm deepening my expertise in backend development using Python and cloud-native solutions on GCP.<br><br> 💬 Ask me about:  Python, Flask, FastAPI, Huggingface, VertexAI, AutoML, ReactJS, NodeJS, ExpressJs, Java, C, C++<br><br> 📫 How to reach me: vaghasiyavanshil@gmail.com
+Hey, I am Vanshil <br>Full Stack and CLoud Engineer and currently a final year CSE student<br> 🔭 I'm currently working at Searce as an Associate Cloud Engineer, where I work extensively with Python and Google Cloud Platform (GCP).<br><br> 🌱 I'm deepening my expertise in backend development using Python and cloud-native solutions on GCP.<br><br> 💬 Ask me about:  Python, Flask, FastAPI, Huggingface, VertexAI, AutoML, ReactJS, NodeJS, ExpressJs, Java, C, C++<br><br> 📫 How to reach me: vaghasiyavanshil@gmail.com
 
 
 # 💻 Tech Stack:
